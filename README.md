@@ -1,2 +1,0 @@
-# .github
-Advanced Vulnerability Detection
